@@ -1,7 +1,0 @@
-com/example/mediaserver/service/impl/VideoServiceImpl.class
-com/example/mediaserver/repository/VideoRepository.class
-com/example/mediaserver/MediaServerApplication.class
-com/example/mediaserver/web/VideoController.class
-com/example/mediaserver/service/VideoService.class
-com/example/mediaserver/WebConfig.class
-com/example/mediaserver/domain/Video.class
